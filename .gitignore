@@ -1,2 +1,16 @@
 venv
 __pycache__
+
+# Arquivos temporários
+*.*~
+
+# Arquivos do python compilado
+*.pyc 
+
+.env
+
+# Criado pela IDE PyCharm
+.idea
+
+# Ignora a pasta "template" e tudo que tem dentro dela
+template/*
